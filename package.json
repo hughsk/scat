@@ -1,0 +1,33 @@
+{
+  "name": "scat",
+  "description": "Pipe your javascripts straight into your browser",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "opener": "^1.3.0",
+    "bl": "^0.7.0"
+  },
+  "bin": {
+    "scat": "./scat.js"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/scat"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/scat/issues"
+  },
+  "homepage": "https://github.com/hughsk/scat",
+  "keywords": [
+    "scat",
+    "bcat",
+    "browser",
+    "cat",
+    "pipe",
+    "javascript",
+    "tool",
+    "quick"
+  ]
+}
